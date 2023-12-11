@@ -1,6 +1,6 @@
 {
   "name": "@juliusagency/authorization-jwt-sql-set",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "A npm package for use in Node.js projects.",
   "exports": {
     ".": {
@@ -93,6 +93,6 @@
   },
   "dependencies": {
     "@juliusagency/authorization-repo-sql": "^0.0.0",
-    "@juliusagency/authorization-jwt-checker": "^0.0.0-development"
+    "@juliusagency/authorization-jwt-checker": "^0.0.0"
   }
 }
